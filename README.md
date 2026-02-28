@@ -1,8 +1,8 @@
 # FGC-2025-Team-Cerberus
 
-## This repo contains the code for the robot that we made as 'Team Cerberus' which was a subset team of Team UAE for the First Global Challenge 2025 : Eco Equilibrium. 
+### This repo contains the code for the robot that we made as 'Team Cerberus' which was a subset team of Team UAE for the First Global Challenge 2025 : Eco Equilibrium. 
 
-## The code was designed for a robot that has a 4-Omni Wheel Tankdrive Drivetrain, a Core-Hex Motor actuated intake and a Ultraplanetary-motor actauted Climbing mechanism, in line with the demands for the season's game. 
+### The code was designed for a robot that has a 4-Omni Wheel Tankdrive Drivetrain, a Core-Hex Motor actuated intake and a Ultraplanetary-motor actauted Climbing mechanism, in line with the demands for the season's game. 
 
 <img width="1587" height="2245" alt="Engineering Notebook" src="https://github.com/user-attachments/assets/cabe1f1c-4ba6-4a16-9d1b-6987af4c4238" />
 
