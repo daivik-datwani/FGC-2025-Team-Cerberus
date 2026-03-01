@@ -27,18 +27,18 @@ public class MainOpmode extends OpMode {
         tdrive.drive(forward, rotate);
 
         //hanging the robot
-//        if (gamepad1.a){
-//            // move the hanging mechanism forward
-//            iSts.controlHanging(100);
-//        }
-//        if (gamepad1.b){
+       if (gamepad1.a){
+           // move the hanging mechanism forward
+           iSts.controlHanging(100);
+      }
+        if (gamepad1.b){
 //            // move the hanging mechanism backwards
-//            iSts.controlHanging(-100);
-//        }
-//        if (gamepad1.x){
-//            // stop the hanging mechanism
-//            iSts.controlHanging(0);
-//        }
+            iSts.controlHanging(-100);
+        }
+       if (gamepad1.x){
+          // stop the hanging mechanism
+            iSts.controlHanging(0);
+       }
 
         if (gamepad1.dpad_up){
             // constantly rottate the hanging mechanism forward
